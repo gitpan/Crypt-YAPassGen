@@ -1,0 +1,19 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Crypt-YAPassGen
+version:      0.01
+version_from: lib/Crypt/YAPassGen.pm
+installdirs:  site
+
+build_requires:
+    Test::More:                     0
+
+requires:
+    File::Spec                      0
+    Class::Data::Inheritable        0
+    Storable                        0
+    Config                          0
+
+license: perl
+distribution_type: module
+
