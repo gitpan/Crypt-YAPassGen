@@ -1,6 +1,6 @@
 package Crypt::YAPassGen;
 
-$Crypt::YAPassGen::VERSION = 0.01;
+$Crypt::YAPassGen::VERSION = 0.02;
 
 use 5.006;
 use strict;

@@ -1,4 +1,5 @@
 Changes
+extras/test_algorithms.pl
 lib/Crypt/YAPassGen.pm
 lib/Crypt/YAPassGen/american-english.dat
 Makefile.PL
